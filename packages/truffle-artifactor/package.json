@@ -18,7 +18,7 @@
     "ganache-cli": "6.1.0-beta.4",
     "mocha": "5.2.0",
     "require-nocache": "^1.0.0",
-    "solc": "0.4.24",
+    "solc": "git@github.com:ethereum/solc-js#eace963eb9d89da9a676aca5cd111105df134395",
     "temp": "^0.8.3",
     "truffle-blockchain-utils": "^0.0.5",
     "web3": "0.20.6"
